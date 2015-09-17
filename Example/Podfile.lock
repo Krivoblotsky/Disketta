@@ -1,0 +1,14 @@
+PODS:
+  - Disketta (0.1.0)
+
+DEPENDENCIES:
+  - Disketta (from `../`)
+
+EXTERNAL SOURCES:
+  Disketta:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Disketta: 0e92a159218d71127d853af34a18f3cb1bc18ef8
+
+COCOAPODS: 0.38.2
