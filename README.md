@@ -22,7 +22,7 @@ pod "Disketta"
 
 ## Author
 
-krivoblotsky, krivoblotsky@macpaw.com
+krivoblotsky, krivoblotsky@me.com
 
 ## License
 
